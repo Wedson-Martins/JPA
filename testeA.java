@@ -1,3 +1,3 @@
 public class classe A{
-	system.out.println("Teste");
+	private String email;
 }
